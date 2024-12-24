@@ -1,0 +1,8 @@
+fastapi==0.111.1
+gunicorn==23.0.0
+websockets==12.0
+pydantic-settings==2.4.0
+fuzzywuzzy==0.18.0
+python-levenshtein==0.26.1
+python-multipart==0.0.17
+openai[datalib]==0.28
