@@ -1,0 +1,1 @@
+# articles-redpanda-openai-pinecone
